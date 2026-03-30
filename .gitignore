@@ -12,6 +12,15 @@ dist
 dist-ssr
 *.local
 
+# Personal / private files
+temporary screenshots/
+navbar.PNG
+*.txt
+*.pdf
+*.doc
+*.docx
+CLAUDE.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
