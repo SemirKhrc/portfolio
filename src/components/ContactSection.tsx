@@ -48,8 +48,8 @@ const ContactSection = () => {
             Resta In <span className="text-gradient">Contatto</span>
           </h2>
           <p className="text-muted-foreground mb-10 max-w-md mx-auto leading-relaxed">
-            Interessato a collaborare o hai una domanda sulla cybersecurity?
-            Connettiamoci.
+            Cerco un'opportunità entry-level in ambito SOC o cybersecurity.
+            Se hai un'opportunità entry-level o vuoi conoscermi meglio, contattami.
           </p>
 
           <div className="flex justify-center gap-6">
